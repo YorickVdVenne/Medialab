@@ -887,6 +887,9 @@ input[type='checkbox'] {
 .cards-1 .card-body {
 	padding: 0;
 }
+.cards-1 .card-body-adjusted {
+	width: 100%;
+}
 
 
 /************************/
@@ -2086,7 +2089,7 @@ a:hover.back-to-top {
 
 	/* Description */
 	.cards-1 .card {
-		width: 18.875rem;
+		width: 28.875rem;
 		margin-right: 2rem;
 		margin-left: 2rem;
 	}
@@ -2205,3 +2208,7 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
+.img-large {
+	
+}
